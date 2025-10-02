@@ -1,7 +1,7 @@
 {
   "name": "Anti Proxy App Store",
   "identifier": "com.kkartik.antiproxy.source",
-  "sourceURL": "https://raw.githubusercontent.com/kkartikaggarwal/anti-proxy-altstore/main/altstore.json",
+  "sourceURL": "https://raw.githubusercontent.com/skigeek16/anti-proxy-altstore/main/altstore.json",
   "apps": [
     {
       "name": "Anti Proxy",
@@ -9,7 +9,7 @@
       "developerName": "Kkartik Aggarwal",
       "subtitle": "AI-Powered Attendance System",
       "localizedDescription": "Advanced CV-based attendance marking system with face recognition. Features automatic student detection, real-time processing, and comprehensive attendance tracking for educational institutions.",
-      "iconURL": "https://raw.githubusercontent.com/kkartikaggarwal/anti-proxy-altstore/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/skigeek16/anti-proxy-altstore/main/icon.png",
       "tintColor": "018084",
       "screenshotURLs": [],
       "versions": [
@@ -17,7 +17,7 @@
           "version": "1.0.0",
           "date": "2025-10-03T00:00:00Z",
           "localizedDescription": "Initial release featuring:\n• Face recognition attendance\n• Real-time student detection\n• Firebase integration\n• Local data storage\n• PDF export functionality\n• Multi-class support",
-          "downloadURL": "https://github.com/kkartikaggarwal/anti-proxy-altstore/releases/download/v1.0.0/Anti-Proxy.ipa",
+          "downloadURL": "https://github.com/skigeek16/anti-proxy-altstore/releases/download/v1.0.0/Anti-Proxy.ipa",
           "size": 23068672,
           "minOSVersion": "12.0"
         }
@@ -43,9 +43,9 @@
       "caption": "CV-based attendance system now available",
       "date": "2025-10-03T00:00:00Z",
       "tintColor": "018084",
-      "imageURL": "https://raw.githubusercontent.com/kkartikaggarwal/anti-proxy-altstore/main/icon.png",
+      "imageURL": "https://raw.githubusercontent.com/skigeek16/anti-proxy-altstore/main/icon.png",
       "notify": false,
-      "url": "https://github.com/kkartikaggarwal/anti-proxy-altstore"
+      "url": "https://github.com/skigeek16/anti-proxy-altstore"
     }
   ]
 }
